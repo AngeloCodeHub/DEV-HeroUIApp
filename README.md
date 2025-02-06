@@ -1,17 +1,14 @@
-
-OS：
-WebServer：Apache
-Runtime：Bun
-SSH：
+Runtime：Node.JS
 Language：TypeScript
 Package Manager：Bun pm
 FrameWork-CSS：tailwindcss
-FrameWork-FrontEnd：React
+FrameWork-FrontEnd：React.JS
 FrameWork-BackEnd：Next.JS
-UILabrary：HeroUI
-Desktop：
-Bundler：Webpack
+UILibrary：HeroUI
+Bundler：Next.JS（使用Webpack）
 Linter：ESLint8
 DataBase：MySQL
 ORM：Prisma
-ProjectTools：VSCODE｜EMMET、Git｜GitHub、GitHub Copilot
+Basic Knowledge：
+ProjectTools：VSCODE、Git｜GitHub、GitHub Copilot
+Compiler：Next.JS
