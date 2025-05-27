@@ -1,12 +1,12 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
-  "css.validate": false,
-  "tailwindCSS.experimental.classRegex": [
-    [
-      "clsx\\(([^)]*)\\)",
-      "(?:'|\"|`)([^']*)(?:'|\"|`)"
-    ]
-  ],
+  // "css.validate": false,
+  // "tailwindCSS.experimental.classRegex": [
+  //   [
+  //     "clsx\\(([^)]*)\\)",
+  //     "(?:'|\"|`)([^']*)(?:'|\"|`)"
+  //   ]
+  // ],
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
   "files.eol": "\n",
